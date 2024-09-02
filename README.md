@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=varad-ijantkar&label=Profile%20views&color=0e75b6&style=flat" alt="varad-ijantkar" /> </p>
 
-<p align="left" <img src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263"/> </p>
+<p align="left"> <img src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263"/> </p>
 
 - 🔭 I’m currently working on **Employee Attrition Prediction System and Sentiment Analysis With GUI Development**
 
