@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Varad Ijantkar</h1>
-<h3 align="center">I'M BEST AT WHAT I DO!</h3>
+<h1 align="center">Varad Ijantkar [VI]</h1>
+<h3 align="center"></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=varad-ijantkar&label=Profile%20views&color=0e75b6&style=flat" alt="varad-ijantkar" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **TensorFlow, Scikit-learn, React.js and React Native**
 
-- 💬 Ask me about **Front-end Web-Dev**
+- 💬 Ask me about **Front-End Web-Dev**
 
 - 📫 How to reach me **varadijantkar@gmail.com**
 
