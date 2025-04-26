@@ -1,4 +1,4 @@
-<h1 align="center">V</h1>
+<h1 align="center">Varad Ijantkar</h1>
 <h3 align="center"></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=varad-ijantkar&label=Profile%20views&color=0e75b6&style=flat" alt="varad-ijantkar" /> </p>
